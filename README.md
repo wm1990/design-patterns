@@ -1,5 +1,6 @@
-# design-patterns
-设计模式案例
+# design-patterns 设计模式案例
+
+各个设计模式实现源码所在package说明：
 
 简单工厂模式：simpleFactory
 
@@ -7,7 +8,7 @@
 
 抽象工厂模式：abstractFactory
 
-
+单例模式：singleton
 
 
 
