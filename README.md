@@ -12,5 +12,5 @@
 
 原型模式：prototype
 
-
+建造者模式：builder
 
