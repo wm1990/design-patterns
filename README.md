@@ -10,7 +10,7 @@
 
 单例模式：singleton
 
-
+原型模式：prototype
 
 
 
