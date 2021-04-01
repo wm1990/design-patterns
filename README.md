@@ -14,3 +14,4 @@
 
 建造者模式：builder
 
+代理模式：proxy
