@@ -19,3 +19,9 @@
 门面模式：facade
 
 装饰器模式：decorator
+
+装饰器模式：decorator
+
+适配器模式：adapter
+
+桥接模式：bridge
