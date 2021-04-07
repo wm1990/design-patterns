@@ -45,3 +45,5 @@
 21、观察者模式：observer
 
 22、中介者模式：mediator
+
+23、迭代器模式：iterator
