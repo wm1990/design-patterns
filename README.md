@@ -25,3 +25,5 @@
 适配器模式：adapter
 
 桥接模式：bridge
+
+享元模式：flyweight
