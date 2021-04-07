@@ -8,7 +8,6 @@ package com.learn.bridge.money;
  * @Author: [wangmeng]
  * @CreateDate: 2021/4/7 11:35
  * @Version: V1.0
- * Copyright: 北京宏图天安 Copyright (c) 2021
  */
 public interface Money {
     //奖金类型
