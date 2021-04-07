@@ -43,3 +43,5 @@
 20、状态模式：state
 
 21、观察者模式：observer
+
+22、中介者模式：mediator
