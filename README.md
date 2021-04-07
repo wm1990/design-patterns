@@ -31,3 +31,5 @@
 组合模式：composite
 
 委派模式：delegate
+
+模板方法模式：templateMethod
