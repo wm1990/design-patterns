@@ -37,3 +37,5 @@
 17、策略模式：strategy
 
 18、责任链模式：chainOfResponsibility
+
+19、命令模式：command
