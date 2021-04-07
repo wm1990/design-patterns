@@ -8,7 +8,6 @@ package com.learn.composite.safe;
  * @Author: [wangmeng]
  * @CreateDate: 2021/3/30 22:55
  * @Version: V1.0
- * Copyright: 北京宏图天安 Copyright (c) 2021
  */
 public class LeafDept implements DeptComponent {
     private String name;
