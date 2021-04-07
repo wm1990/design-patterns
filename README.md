@@ -41,3 +41,5 @@
 19、命令模式：command
 
 20、状态模式：state
+
+21、观察者模式：observer
