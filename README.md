@@ -17,3 +17,5 @@
 代理模式：proxy
 
 门面模式：facade
+
+装饰器模式：decorator
