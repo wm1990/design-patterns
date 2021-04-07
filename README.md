@@ -34,3 +34,4 @@
 
 16、模板方法模式：templateMethod
 
+17、策略模式：strategy
