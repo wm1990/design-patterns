@@ -29,3 +29,5 @@
 享元模式：flyweight
 
 组合模式：composite
+
+委派模式：delegate
