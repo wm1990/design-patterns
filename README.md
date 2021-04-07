@@ -39,3 +39,5 @@
 18、责任链模式：chainOfResponsibility
 
 19、命令模式：command
+
+20、状态模式：state
