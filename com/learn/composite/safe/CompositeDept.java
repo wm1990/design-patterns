@@ -11,7 +11,6 @@ import java.util.List;
  * @Author: [wangmeng]
  * @CreateDate: 2021/3/30 23:01
  * @Version: V1.0
- * Copyright: 北京宏图天安 Copyright (c) 2021
  */
 public class CompositeDept implements DeptComponent{
     private List<DeptComponent> children = new ArrayList<>();
