@@ -10,7 +10,6 @@ import java.util.List;
  * @Author: [wangmeng]
  * @CreateDate: 2021/3/30 23:07
  * @Version: V1.0
- * Copyright: 北京宏图天安 Copyright (c) 2021
  */
 public class CompositeTest {
     public static void main(String[] args) {
