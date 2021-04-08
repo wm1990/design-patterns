@@ -47,3 +47,5 @@
 22、中介者模式：mediator
 
 23、迭代器模式：iterator
+
+24、访问者模式：visitor
