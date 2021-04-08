@@ -20,36 +20,34 @@
 
 9、装饰器模式：decorator
 
-10、装饰器模式：decorator
+10、适配器模式：adapter
 
-11、适配器模式：adapter
+11、桥接模式：bridge
 
-12、桥接模式：bridge
+12、享元模式：flyweight
 
-13、享元模式：flyweight
+13、组合模式：composite
 
-14、组合模式：composite
+14、委派模式：delegate
 
-15、委派模式：delegate
+15、模板方法模式：templateMethod
 
-16、模板方法模式：templateMethod
+16、策略模式：strategy
 
-17、策略模式：strategy
+17、责任链模式：chainOfResponsibility
 
-18、责任链模式：chainOfResponsibility
+18、命令模式：command
 
-19、命令模式：command
+19、状态模式：state
 
-20、状态模式：state
+20、观察者模式：observer
 
-21、观察者模式：observer
+21、中介者模式：mediator
 
-22、中介者模式：mediator
+22、迭代器模式：iterator
 
-23、迭代器模式：iterator
+23、访问者模式：visitor
 
-24、访问者模式：visitor
+24、备忘录模式：memento
 
-25、备忘录模式：memento
-
-26、解释器模式：interpreter
+25、解释器模式：interpreter
