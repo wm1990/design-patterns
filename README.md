@@ -49,3 +49,7 @@
 23、迭代器模式：iterator
 
 24、访问者模式：visitor
+
+25、备忘录模式：memento
+
+26、解释器模式：interpreter
